@@ -13,4 +13,3 @@ Usage:
         --custodian-dir ./custodian_reports \
         --gcp-project my-gcp-project \
         --out report.md
-"""
