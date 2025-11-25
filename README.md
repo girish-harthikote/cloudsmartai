@@ -1,4 +1,4 @@
-# cloudsmartai
+# cloudsmartai - AI Powered Multi Cloud Cost Optimization [AWS & GCP]
 
 Multi-cloud LangChain agent:
  - AWS: reads Cloud Custodian JSON "list" outputs from a directory
